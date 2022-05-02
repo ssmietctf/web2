@@ -1,0 +1,11 @@
+function validate(){  
+    var username=document.login.username.value;  
+    var password=document.login.password.value;  
+     
+if (username == "theadmin" && password == "theunbreakablepassword@1337"){
+    function _0x228c(){var _0x27424c=['28RYtmph','5845458AkhaTQ','2999409lhXHbX','8543070vQAJwH','12364821gEbGvZ','1592800LsXtUx','1319303LrwDYs','142356qoKczO','24VhKEWG'];_0x228c=function(){return _0x27424c;};return _0x228c();}function _0x1053(_0x4b5fb4,_0xbe5a8b){var _0x228c2d=_0x228c();return _0x1053=function(_0x105321,_0x335274){_0x105321=_0x105321-0x1c7;var _0x282677=_0x228c2d[_0x105321];return _0x282677;},_0x1053(_0x4b5fb4,_0xbe5a8b);}(function(_0x1a95c0,_0x158b2d){var _0x36c905=_0x1053,_0x186605=_0x1a95c0();while(!![]){try{var _0x16adc9=parseInt(_0x36c905(0x1cc))/0x1+-parseInt(_0x36c905(0x1cf))/0x2*(-parseInt(_0x36c905(0x1cd))/0x3)+-parseInt(_0x36c905(0x1cb))/0x4+-parseInt(_0x36c905(0x1c9))/0x5+parseInt(_0x36c905(0x1c7))/0x6+-parseInt(_0x36c905(0x1c8))/0x7*(parseInt(_0x36c905(0x1ce))/0x8)+parseInt(_0x36c905(0x1ca))/0x9;if(_0x16adc9===_0x158b2d)break;else _0x186605['push'](_0x186605['shift']());}catch(_0x5373f2){_0x186605['push'](_0x186605['shift']());}}}(_0x228c,0xe55cc),alert('SSMIETCTF{n1c3_y0u_f0und_th3_cr3ds}'));
+}
+else{
+    alert("wrong password!!");
+}
+    }  
